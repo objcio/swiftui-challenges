@@ -17,7 +17,7 @@ It should look like this:
 
 You should implement this without using a `GeometryReader`!
 
-For a bonus challenge, create a `SignalStrengthView` that includes a text label. Make sure that the indicator scales with the environment's current font size. For example, here's the signal strength with and without a large title font:
+For a bonus challenge, create a `SignalStrengthView` that includes a text label. Make sure that the indicator scales with the environment's current font size. For example, here's the signal strength view with and without a large title font:
 
 ```swift
 struct ContentView: View {
