@@ -1,4 +1,4 @@
-# Challenge 1: A Badge View
+# Challenge 1: Badge View
 
 In this challenge, we'll add a badge view. When `count` is not zero, it should display a badge in the top trailing corner, like so:
 
