@@ -13,7 +13,7 @@ struct ContentView: View {
 
 It should look like this:
 
-![](images/signal-stength-indicator.png)
+![](images/signal-strength-indicator.png)
 
 You should implement this without using a `GeometryReader`!
 
