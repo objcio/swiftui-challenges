@@ -1,6 +1,6 @@
 Your challenge is to create a tab-bar like component that has a smooth animation:
 
-![](challenge3.mov)
+<https://github.com/objcio/swiftui-challenges/blob/master/challenge3.mov?raw=true>
 
 This is the interface we expect:
 
