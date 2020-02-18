@@ -41,3 +41,7 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 ```
+
+## Solution
+
+Here's a blog post describing [the solution](https://www.objc.io/blog/2020/02/11/swiftui-challenge-1/)
