@@ -22,3 +22,4 @@ VStack {
 ```
 
 Try to achieve this using alignment guides, not using preferences. Of course both columns should adapt to the width of the contents.
+
