@@ -1,3 +1,5 @@
+![](images/challenge3.png)
+
 Your challenge is to align a `VStack` of `HStack`s in such a way that it displays as two columns:
 
 ```swift
