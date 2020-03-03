@@ -1,4 +1,4 @@
-Your challenge is to animate a path. Here's the code that draws a simple path:
+Your challenge is to animate a line. Here's the code that draws a line using a simple path:
 
 ```swift
 let p1 = CGPoint(x: 50, y: 50)
